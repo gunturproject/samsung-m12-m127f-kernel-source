@@ -1,0 +1,5 @@
+# SHA-256; the source ZIP is attached to the private GitHub Release.
+3093142053bd108bf55d0a486f551a5f7b9201c3bc1927bd84c59aa6728d1c4d  SM-M127F_13_Opensource.zip
+# The following tarballs are members of SM-M127F_13_Opensource.zip.
+a20652a119fd65501f9fd7a6875ee12f3b250b818c31beb8a328009a07001361  Kernel.tar.gz
+68411ebd771557448985a6df84573ba9e66bda8371069b17577bdf3ac76ac0c2  Platform.tar.gz
